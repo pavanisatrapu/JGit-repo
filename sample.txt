@@ -1,1 +1,1 @@
-sample file to test pull command
+sample file to test pull command using JGit library
